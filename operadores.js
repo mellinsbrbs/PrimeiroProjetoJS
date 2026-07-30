@@ -55,3 +55,6 @@ let ativo = true;
 console.log(!ativo); // false
 
 console.log(!false); // true
+// muito usado para alterar o estado de um botão, por exemplo, ativo/desativo
+// visivel/invisivel, ativo/inativo
+
