@@ -1,5 +1,5 @@
 # Meu primeiro projeto JavaScript
-## 🐨Aluno
+## 🐨Aluna Mel
 ---
 
 ## Sobre
